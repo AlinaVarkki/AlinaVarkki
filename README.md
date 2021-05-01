@@ -1,4 +1,4 @@
-<img src="alinavarkki.gif"  width="100%">
+<img src="alinavarkki.gif"  width=100%>
 <h1 align="center">Hi 👋, I'm Alina</h1>
 <h3 align="center">A software engineering student at the University Of Strathclyde</h3>
 
