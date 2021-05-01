@@ -1,4 +1,4 @@
-<img src="https://im7.ezgif.com/tmp/ezgif-7-b4483dd015e2.gif">
+<img src="https://im7.ezgif.com/tmp/ezgif-7-ba0d807a1f1c.gif">
 <h1 align="center">Hi 👋, I'm Alina</h1>
 <h3 align="center">A software engineering student at the University Of Strathclyde</h3>
 
