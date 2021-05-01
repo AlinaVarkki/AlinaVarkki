@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/alina-varkki-2598a116b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alina varkki" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alinawarkki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="alina varkki" height="30" width="40" /></a>
 <a href="https://leetcode.com/varkki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="alina varkki" height="30" width="40" /></a>
+<a href="mailto:varkkia99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="alina varkki" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alinawarkki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alina varkki" height="30" width="40" /></a>
 </p>
 
