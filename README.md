@@ -1,7 +1,9 @@
 <img src="alinavarkki.gif"  width=100%>
 <h3 align="center">:wave:Hi! I’m a computer science student at the University of Strathclyde and I love to code because it is usable :sparkles:art:sparkles:</h3>
-<h2>I am currently learning a lot and trying all sorts of technologies :books::computer:<br>
-  Always looking for something exciting to work on :blush:</h2>
+<h4>I am currently learning a lot and trying all sorts of technologies :books::computer:<br>
+  Always looking for something exciting to work on :blush: <br>
+Summer 2021 JPMorgan intern 
+</h4>
 
 
 <h3 align="left">Connect with me:</h3>
