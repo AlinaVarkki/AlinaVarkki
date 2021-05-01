@@ -1,5 +1,8 @@
 <img src="alinavarkki.gif"  width=100%>
-<h3 align="center">A software engineering student at the University Of Strathclyde</h3>
+<h3 align="center">:wave:Hi! I’m a computer science student at the University of Strathclyde and I love to code because it is usable art. 
+I am currently learning a lot and trying all sorts of technologies.
+Always looking for something exciting to work on  
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
