@@ -6,6 +6,9 @@
 </h4>
 
 
+<a href="https://devpost.com/varkkia99?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><h3>Some of my hackathon submissions</h3></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alina-varkki-2598a116b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alina varkki" height="30" width="40" /></a>
