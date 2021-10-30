@@ -2,6 +2,8 @@
 <h3 align="center">:wave:Hi! I’m a computer science student at the University of Strathclyde and I love to code because it is usable :sparkles:art:sparkles:</h3>
 <h4>I am currently learning a lot and trying all sorts of technologies :books::computer:<br>
   Always looking for something exciting to work on :blush: <br>
+  <br>
+:woman_technologist: Software Engineer at ViaEurope <br>
 :seedling: Summer 2021 JPMorgan intern 
 </h4>
 
