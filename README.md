@@ -1,14 +1,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><img src="alinavarkki.gif" target="_blank" width=100%></a>
 <h3 align="center">:wave:Hi! I’m a computer science student at the University of Strathclyde and I love to code because it is usable :sparkles:art:sparkles:</h3>
-<h4>I am currently learning a lot and trying all sorts of technologies :books::computer:<br>
-  Always looking for something exciting to work on :blush: <br>
-  <br>
-:woman_technologist: Software Engineer at ViaEurope <br>
-:seedling: Summer 2021 JPMorgan intern 
-</h4>
 
+<h2>
+:woman_technologist: SWE intern at Google
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/archive/5/53/20161128230037%21Google_%22G%22_Logo.svg"height="60" width="80" /></h2>
+<br>
 
-<a href="https://devpost.com/varkkia99?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><h3>Some of my hackathon submissions</h3></a>
 
 
 <h3 align="left">Connect with me:</h3>
