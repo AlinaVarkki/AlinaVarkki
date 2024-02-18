@@ -2,7 +2,7 @@
 <h3 align="center">:wave:I love to code because it is usable :sparkles:art:sparkles:</h3>
 
 <h2>
-:woman_technologist: SWE at Google working on Chrome Devtools Performance Panel
+:woman_technologist: SWE at Google working on Chrome DevTools Performance Panel
 </h2>
 
 <h3 align="left">Connect with me:</h3>
