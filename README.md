@@ -3,9 +3,7 @@
 
 <h2>
 :woman_technologist: SWE at Google working on Chrome Devtools Performance Panel
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/archive/5/53/20161128230037%21Google_%22G%22_Logo.svg"height="60" width="80" /></h2>
-<br>
-
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
