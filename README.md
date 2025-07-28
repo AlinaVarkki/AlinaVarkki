@@ -1,8 +1,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"><img src="alinavarkki.gif" target="_blank" width=100%></a>
-<h3 align="center">:wave:I love to code because it is usable :sparkles:art:sparkles:</h3>
+<h3 align="center">
 
 <h2>
-:woman_technologist: SWE at Google working on Chrome DevTools Performance Panel
+:woman_technologist: SWE at Google working on Chrome DevTools
 </h2>
 
 <h3 align="left">Connect with me:</h3>
